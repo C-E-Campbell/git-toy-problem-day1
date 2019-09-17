@@ -21,3 +21,4 @@ Devmountain
             -> Grades.txt
 
 #5 Are you ready for the first day of javascript?!
+hell nah son
